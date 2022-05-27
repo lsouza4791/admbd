@@ -1,2 +1,3 @@
-# admbd
-Aulas banco de dados
+Exercício aula de banco de dados
+Olá 
+Segue o script referente da aula 2
