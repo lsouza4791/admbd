@@ -1,2 +1,1 @@
-Exercício aula de banco de dados
-Segue o script referente da aula 2
+Script aula2 de banco de dados
