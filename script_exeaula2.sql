@@ -7,7 +7,7 @@ create table if not exists animais(
     id_animal smallint unsigned primary key auto_increment,
     tp_animal enum('cachorro','gato'),
     nom_animal varchar(15),
-    dt_incl_animal timestamp 
+    dt_incl_animal datetime default current_timestamp
 );
 insert into animais(
     tp_animal,
